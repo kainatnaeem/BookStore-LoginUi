@@ -1,10 +1,6 @@
 # loginuibyktech
 
-![ktechfirstpage](https://user-images.githubusercontent.com/54583829/182721308-badd6e39-de5e-4020-92ef-0b1454c14fbd.png)
-
-![ktechlogin](https://user-images.githubusercontent.com/54583829/182721312-0cd60c5e-f057-44d3-a536-07fdb3fb89bb.PNG)
-
-![ktechsignup](https://user-images.githubusercontent.com/54583829/182721316-bc4d8b4b-4ada-4f1a-a7d7-68f649f97539.PNG)
+![ktechfirstpage](https://user-images.githubusercontent.com/54583829/182721308-badd6e39-de5e-4020-92ef-0b1454c14fbd.png) ![ktechlogin](https://user-images.githubusercontent.com/54583829/182721312-0cd60c5e-f057-44d3-a536-07fdb3fb89bb.PNG) ![ktechsignup](https://user-images.githubusercontent.com/54583829/182721316-bc4d8b4b-4ada-4f1a-a7d7-68f649f97539.PNG)
 
 A new Flutter project.
 
