@@ -3,7 +3,7 @@
 
 A new Flutter project.
 
-# Beautiful book store app login UI by Ktech Marketing
+# Beautiful book store app login UI 
 
 ## Getting Started
 
